@@ -1,0 +1,41 @@
+package com.ashwinswaroop.jailbirdsbot.constants;
+
+public final class Constants {
+    public static final String LOCATION_PROPERTIES = "location.properties";
+    public static final String LOCATION_DIRECTORY = "location.directory";
+    public static final String LOCATION_APP_CREDENTIALS = "location.app.credentials";
+    public static final String LOCATION_DB_CREDENTIALS = "location.db.credentials";
+    public static final String LOCATION_HOST_CREDENTIALS = "location.host.credentials";
+    public static final String APPLICATION_PROPERTIES = "application.properties";
+    public static final String APPLICATION_PLATFORM = "application.platform";
+    public static final String APPLICATION_ID = "application.id";
+    public static final String APPLICATION_VERSION = "application.version";
+    public static final String APPLICATION_USERNAME = "application.username";
+    public static final String USERNAME = "username";
+    public static final String PASSWORD = "password";
+    public static final String CLIENT_ID = "client";
+    public static final String CLIENT_SECRET = "secret";
+    public static final String HOSTNAME = "hostname";
+    public static final String OPTIONS = "options";
+    public static final String DB = "db";
+    public static final String VIRGULE = "/";
+    public static final String COLON = ":";
+    public static final String AT = "@";
+    public static final String EQUALS = "=";
+    public static final String SPACE = " ";
+    public static final String QUESTION = "?";
+    public static final String MDB_PREFIX = "mongodb+srv://";
+    public static final String IMG_ENDPOINT = "https://api.imgur.com/3/";
+    public static final String IMAGE = "image";
+    public static final String TXT = ".txt";
+    public static final String PNG = ".png";
+    public static final String PNG_FORMAT = "png";
+    public static final String UTF_8 = "UTF-8";
+    public static final String POST = "POST";
+    public static final String AUTHORIZATION = "Authorization";
+    public static final String CLIENT_HEADER = "Client-ID";
+    public static final String CONTENT_TYPE_HEADER = "Content-Type";
+    public static final String FORM_URLENCODED = "application/x-www-form-urlencoded";
+    public static final String DB_NAME = "jailbirdsbot-db";
+    public static final String COLLECTION_JAILBIRDS = "jailbirds";
+}
