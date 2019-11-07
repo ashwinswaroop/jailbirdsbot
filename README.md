@@ -19,6 +19,12 @@ Valve has not released an API for Underlords yet.
 
 - Provide the data via an API as an option **(WIP)**
 
+**Hosting**
+- MongoDB Atlas on AWS for data
+- Local server with a cron schedule for the application
+- Imgur for screenshots
+- Reddit for the posts
+
 Once implemented in full and released, we should be able to have a steadily increasing dataset of daily changes from which we can make visualization/inferences.
 
 Will be serving https://www.reddit.com/r/underlords/ once complete.
